@@ -1,0 +1,7 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+pwd=cout<<"Hey, Iam new to progamming";
+getch();
+}
